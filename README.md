@@ -14,7 +14,7 @@
 
 ### 如何引入到自己的项目中使用
 - 使用命令行,在命令行中输入以下命令将项目Clone至本机中,在微信开发者工具中导入项目即可
-  > git clone https://github.com/q867304130/WX-bilibili-Demo.git
+  > git clone https://github.com/q867304130/WX-Demo-bilibili.git
 
 - 点击项目右上角的 Clone or download ,选择 Download ZIP ,将文件下载到本地中,解压缩后使用微信开发者工具导入
 
